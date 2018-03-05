@@ -1,0 +1,6 @@
+127.0.0.1 - - [05/Mar/2018:10:10:00 +0530] "GET /cargocpc/index.html HTTP/1.1" 200 124
+0:0:0:0:0:0:0:1 - - [05/Mar/2018:10:10:19 +0530] "GET /clinicalweightvalidation/webapi/weight/getWeight HTTP/1.1" 200 67
+0:0:0:0:0:0:0:1 - - [05/Mar/2018:10:10:30 +0530] "GET /clinicalweightvalidation/webapi/weight/getWeight HTTP/1.1" 200 67
+0:0:0:0:0:0:0:1 - - [05/Mar/2018:10:11:24 +0530] "GET /clinicalweightvalidation/webapi/weight/getWeight HTTP/1.1" 200 67
+0:0:0:0:0:0:0:1 - - [05/Mar/2018:10:11:59 +0530] "POST /clinicalweightvalidation/webapi/weight/addWeight HTTP/1.1" 200 16
+0:0:0:0:0:0:0:1 - - [05/Mar/2018:10:12:14 +0530] "GET /clinicalweightvalidation/webapi/weight/getWeight HTTP/1.1" 200 69
