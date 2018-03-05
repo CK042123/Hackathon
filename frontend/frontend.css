@@ -1,0 +1,26 @@
+.App{
+  padding-top: 8%;
+  padding-left: 30%;
+}
+
+#App-Header{
+  padding-left: 15%;
+}
+
+.App-Controls{
+  padding-top: 5%;
+  width: 50%;
+  //text-align: center;
+}
+
+.App-Button{
+  padding-top: 7%;
+}
+
+#Savebutton{
+margin-left: 30%;
+}
+
+#Resetbutton{
+margin-left: 20%;
+}
